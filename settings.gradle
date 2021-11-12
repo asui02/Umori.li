@@ -1,0 +1,2 @@
+rootProject.name = "Umori.li"
+include ':app'
